@@ -12,7 +12,7 @@
  * Author:      Dinura Sellapperuma
  * Author URI:  https://dinurasellapperuma.com/
  * Created:     18.05.2024
- * Version:     1.9.3
+ * Version:     1.9.2
  * Text Domain: sms-sender-by-dixy
  * Domain Path: /lang
  * License:     GPL v2 or later
