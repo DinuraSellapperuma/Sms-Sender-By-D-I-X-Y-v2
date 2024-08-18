@@ -7,8 +7,8 @@
  * @license   GPL-2.0-or-later
  *
  * Plugin Name: Sms Sender by D I X Y
- * Description: A simple plugin to send SMS..
- * Plugin URI:  https://dev.dinurasellapperuma.com/
+ * Description: Sms Sender Plugin for Wordpress : It Compatible Sms Gateways With - DirectWave Sri Lankan Sms Gateway , Richmo sms Gateway Sri Lanka
+ * Plugin URI:  https://github.com/DinuraSellapperuma/Sms-Sender-By-D-I-X-Y-v2
  * Author:      Dinura Sellapperuma
  * Author URI:  https://dinurasellapperuma.com/
  * Created:     18.05.2024
