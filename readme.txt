@@ -18,7 +18,7 @@ SMS Sender by Dixy allows you to easily send SMS notifications directly from you
 == Frequently Asked Questions ==
 
 = What SMS gateways are supported? =
-The plugin supports a wide range of SMS gateways. For detailed instructions on configuring your specific gateway, refer to the documentation or support page.
+Richmo sms Gateway or D I X Y sms Gateway (Only Work with Sri Lankan Numbers)
 
 = Can I customize the SMS content? =
 Yes, you can customize the content of the SMS messages through the plugin's settings.
