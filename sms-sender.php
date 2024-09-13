@@ -55,7 +55,7 @@ add_action('admin_menu', 'sms_sender_menu');
 function sms_sender_menu() {
     add_menu_page(
         'SMS Bulk Sender', 
-        'SMS Bulk Sender', 
+        'SMS Sender', 
         'manage_options', 
         'sms-sender', 
         'sms_sender_page', 
