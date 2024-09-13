@@ -54,7 +54,7 @@ $myUpdateChecker = PucFactory::buildUpdateChecker(
 add_action('admin_menu', 'sms_sender_menu');
 function sms_sender_menu() {
     add_menu_page(
-        'SMS Bulk Sender', 
+        'SMS Sender', 
         'SMS Sender', 
         'manage_options', 
         'sms-sender', 
@@ -65,7 +65,7 @@ function sms_sender_menu() {
 
     add_submenu_page(
         'sms-sender',
-        'Send SMS',
+        'Send Bulk SMS',
         'Send SMS',
         'manage_options',
         'sms-sender-send',
