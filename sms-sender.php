@@ -183,7 +183,7 @@ function sms_sender_send_page() {
     }
     ?>
     <div class="wrap">
-        <h1>Send SMS</h1>
+        <h1>Send Bulk SMS</h1>
         <form method="post" enctype="multipart/form-data">
             <table class="form-table">
                 <tr valign="top">
